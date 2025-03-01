@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\HypotenuseCalculatorProgram.exe.config
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\HypotenuseCalculatorProgram.exe
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\bin\Debug\HypotenuseCalculatorProgram.pdb
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\HypotenuseCalculatorProgram.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\HypotenuseCalculatorProgram.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\HypotenuseCalculatorProgram.exe
+C:\Users\User\Desktop\C-code\HypotenuseCalculatorProgram\HypotenuseCalculatorProgram\obj\Debug\HypotenuseCalculatorProgram.pdb
