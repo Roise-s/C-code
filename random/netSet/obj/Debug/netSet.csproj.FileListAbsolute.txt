@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\netSet\netSet\bin\Debug\netSet.exe.config
+C:\Users\User\Desktop\netSet\netSet\bin\Debug\netSet.exe
+C:\Users\User\Desktop\netSet\netSet\bin\Debug\netSet.pdb
+C:\Users\User\Desktop\netSet\netSet\obj\Debug\netSet.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\netSet\netSet\obj\Debug\netSet.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\netSet\netSet\obj\Debug\netSet.exe
+C:\Users\User\Desktop\netSet\netSet\obj\Debug\netSet.pdb
